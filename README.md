@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **statsRcool/statsrcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🖖 About Me
+I break big data into bite sized decisions, so you can focus on the work and creativity to run your business.
+
+Blockchain-A.I.-Analytics-Decentralized-App-as-a-Service (BAADAaaS) Expert
+
+I’m an artificial intelligence aficionado and full-stack data dude that is passionate about what I can do for you. 
