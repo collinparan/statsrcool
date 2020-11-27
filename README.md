@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ## 🖖 About Me
-I break big data into bite sized decisions, so you can focus on the work and creativity to run your business.
-
+I break big data into bite sized decisions
 - Blockchain-A.I.-Analytics-Decentralized-App-as-a-Service (BAADAaaS) Expert
 - Artificial intelligence aficionado and full-stack data dude that is passionate about what I can do for you. 
